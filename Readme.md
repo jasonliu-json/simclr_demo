@@ -1,5 +1,5 @@
 ## SimCLR Fine-tuning Demo 
-In this demo, we fine-tune a SimCLR model with ResNet-18 backbone to learn differences between unlabelled images and test its accuracy on a labelled dataset. 
+In this demo, we fine-tune a SimCLR model with ResNet-18 backbone to learn differences between unlabelled images and perform various tests on its performance. 
 
 
 The Simple Framework for Contrastive Learning of Visual Representations (SimCLR) 
