@@ -1,0 +1,9 @@
+matplotlib~=3.8.3
+torch~=2.2.1+cu121
+torchvision~=0.17.1
+ipython~=8.18.1
+tqdm~=4.66.2
+pillow~=10.2.0
+lightly
+scikit-learn
+pytorch-lightning
